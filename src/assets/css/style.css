@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+  background-color: #fff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul,li {
+  list-style: none;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
